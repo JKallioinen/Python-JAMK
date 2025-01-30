@@ -1,2 +1,2 @@
-# Python-JAMK
+# Python-School
 Small Python tasks
